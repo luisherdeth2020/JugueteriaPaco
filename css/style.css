@@ -13,17 +13,16 @@ img {
 	height: 232px;
 	object-fit: cover;
 	max-width: 100%;
-	padding: 0.7em;
 }
 
 h1,
 h2,
 h3 {
-	display: inline-block;
 	font-style: normal;
 	font-size: 1.5rem;
 	font-weight: normal;
 }
+h1{display: inline-block;}
 p {
 	font-size: 1.125rem;
 	padding-left: 0.7em;
@@ -60,4 +59,7 @@ li:first-child {
 
 li:last-child {
 	margin-bottom: 11px;
+}
+ul{
+	padding: 0;
 }
