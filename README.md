@@ -2,6 +2,6 @@
 
 <p align="center"><img src="template.jpg"/></p> 
 
-## Autores ✒️
+## Autor ✒️
 
 * **Luis Herdeth** - *Trabajo Inicial* - [luisherdeth2020](https://github.com/luisherdeth2020)
